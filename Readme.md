@@ -2,18 +2,24 @@
 
 ## Project Overview
 
-This project uses a Random Forest model to predict the seismicity risk induced by shale gas development in Luxian County. The model is tested using the following essential datasets:
+This project uses a Random Forest model to predict the seismicity risk induced by shale gas development in Luxian. The model is tested using the following essential datasets:
 
-- Fault data at a depth of 4 km
+- Fault data
 - Hydraulic fracturing well distribution data
-- Earthquake catalog data
+- Earthquake energy data
+- Seismicity data
+- VS30 data
 
 These datasets are used to train and test the Random Forest model for predicting the risk of induced seismicity during shale gas extraction in Luxian.
 
 ## Datasets
 
-1. **Fault Data**: Contains information on faults at a depth of 4 km underground.
+1. **Fault Data**
 
-2. **Fracture Well Distribution**: Contains the distribution of hydraulic fracturing wells in Luxian.
+2. **Fracture Well Distribution**
 
-3. **Earthquake Catalog**: A record of historical seismic events in Luxian, including information such as event time, location, depth, and magnitude.
+3. **Earthquake energy**
+
+4. **Seismicity**
+
+5. **VS30 Data**
