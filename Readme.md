@@ -4,11 +4,11 @@
 
 This project uses a Random Forest model to predict the seismicity risk induced by shale gas development in Luxian. The model is tested using the following essential datasets:
 
-- Fault data
-- Hydraulic fracturing well distribution data
-- Earthquake energy data
-- Seismicity data
-- VS30 data
+- Fault data (preprocessing)
+- Hydraulic fracturing well data (preprocessing)
+- Earthquake energy data (preprocessing)
+- Seismicity data (preprocessing)
+- VS30 data (preprocessing)
 
 These datasets are used to train and test the Random Forest model for predicting the risk of induced seismicity during shale gas extraction in Luxian.
 
@@ -16,7 +16,7 @@ These datasets are used to train and test the Random Forest model for predicting
 
 1. **Fault Data**
 
-2. **Fracture Well Distribution**
+2. **Fracture Well**
 
 3. **Earthquake energy**
 
