@@ -1,8 +1,8 @@
-# Shale Gas Induced Seismicity Risk Prediction in Luxian County - Random Forest Model Testing
+# Shale Gas Induced Seismicity Hazard Prediction in Luxian County - Random Forest Model Testing
 
 ## Project Overview
 
-This project uses a Random Forest model to predict the seismicity risk induced by shale gas development in Luxian. The model is tested using the following essential datasets:
+This project uses a Random Forest model to predict the seismicity hazard induced by shale gas development in Luxian. The model is tested using the following essential datasets:
 
 - Fault data (preprocessing)
 - Hydraulic fracturing well data (preprocessing)
